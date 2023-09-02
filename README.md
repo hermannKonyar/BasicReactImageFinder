@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+#<img width="1470" alt="Ekran Resmi 2023-09-02 13 46 30" src="https://github.com/hermannKonyar/BasicReactImageFinder/assets/58660686/cde5fcad-803b-4a89-8288-7aa452ed1091">
+ Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
